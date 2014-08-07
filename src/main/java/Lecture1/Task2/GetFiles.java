@@ -11,6 +11,7 @@ public class GetFiles {
 	/**
 	 * @param args
 	 */
+//lalalalalalalalala
 	private static FTPClient ftpClient=new FTPClient();
 	private static String str="ftp.mozilla.org";
 	private static int tabCount=0;
