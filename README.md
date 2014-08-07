@@ -1,4 +1,1 @@
-LabTask
-=======
-
-Ф
+Hello, Vitali.
